@@ -13,7 +13,7 @@ These node modules need to be installed before runnning the server:
 ### Installing
 To install them all at once, type: `npm install`.
 
-## Running the tests
+## Starting the application
 To run the application, type: `node server.js` in the applcation path inside the terminal.
 
 ## Authors
